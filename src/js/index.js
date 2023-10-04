@@ -9,4 +9,8 @@ router.add("/404", "/src/pages/404.html")
 router.handle()
 
 window.onpopstate = () => router.handle()
+<<<<<<< Updated upstream
 window.router = () => router.route()
+=======
+window.route = () => router.route()
+>>>>>>> Stashed changes

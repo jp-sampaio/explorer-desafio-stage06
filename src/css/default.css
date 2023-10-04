@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  
+  --ff-general: 'Roboto', sans-serif;
+  --fw-normal: 400;
+  --fw-bold: 700;
+  
+  --cl-white: #FFF;
+  --cl-link-inativo: #C4C4CC;
+  --cl-link-ativo: #fff;
+  --cl-heading: #E1E1E6;
+  --cl-texting: #E1E1E6;
+  --cl-button-selected: #02799D;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "explorer-desafio-stage06",
+  "version": "1.0.0",
+  "description": "SPA Universe, projeto para aprimorar o conceitos de SPA, mapeamento de rotas, assíncronimos, orintação a objeto, class e outros mais...",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp-sampaio/explorer-desafio-stage06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp-sampaio/explorer-desafio-stage06/issues"
+  },
+  "homepage": "https://github.com/jp-sampaio/explorer-desafio-stage06#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
